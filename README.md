@@ -104,7 +104,7 @@ npm start
 2. Start the frontend development server:
 ```bash
 cd client
-npm start
+npm run dev
 ```
 
 3. The application will be available at `http://localhost:3000`
